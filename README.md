@@ -1,0 +1,1 @@
+# phpimagick-merge-text-to-image
