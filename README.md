@@ -1,1 +1,1 @@
-# phpimagick-merge-text-to-image
+Quick merge
